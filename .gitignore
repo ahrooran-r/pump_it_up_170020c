@@ -142,3 +142,5 @@ cython_debug/
 
 .idea/
 source/
+catboost_info/
+attempt_temp.ipynb
