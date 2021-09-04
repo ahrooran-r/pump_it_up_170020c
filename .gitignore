@@ -144,3 +144,5 @@ cython_debug/
 source/
 catboost_info/
 attempt_temp.ipynb
+test.ipynb
+temp.ipynb
