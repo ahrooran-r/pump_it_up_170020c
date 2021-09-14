@@ -135,6 +135,6 @@ Model selected in the end is `RandomForest` with hyper parameters:
 
 Used evaluation metric: `f1_score(, , average="weighted")`
 
-Achieved accuracy: 0.8092
+Achieved accuracy: **0.8092**
 
-Current Rank: 2338 / 12410
+Current Rank: **2338** / 12410
