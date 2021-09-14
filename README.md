@@ -138,3 +138,7 @@ Used evaluation metric: `f1_score(, , average="weighted")`
 Achieved accuracy: **0.8092**
 
 Current Rank: **2338** / 12410
+
+Proof of submission:
+
+![777](https://user-images.githubusercontent.com/46846338/133297002-41710230-74df-453d-b4a6-b26930b1bee7.png)
