@@ -81,14 +81,14 @@ So if you want to reproduce the results, run:
     19. `region_code`
 9. Converted `object` columns to `category` and numeric columns to `float64`
 10. Do a Min-Max Scaling on following columns
-    1. amount_tsh
-    2. gps_height
-    3. population
-    4. haversine_distance
-    5. x_coordinate
-    6. y_coordinate
-    7. z_coordinate
-    8. age
+    1. `amount_tsh`
+    2. `gps_height`
+    3. `population`
+    4. `haversine_distance`
+    5. `x_coordinate`
+    6. `y_coordinate`
+    7. `z_coordinate`
+    8. `age`
 11. Do a One-Hot Encoding on categorical columns
 12. Removed highly co-related columns above threshold = 0.9
 13. Did KNN-Imputation on missing columns in `pre-process_2.ipynb`
